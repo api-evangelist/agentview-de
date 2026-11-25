@@ -66,7 +66,7 @@
 
 agentView provides AI-powered digital signage solutions, allowing users to control screen content via natural language prompts. Based in Germany, the platform offers a no‑installation, cloud‑based service for businesses to display menus, promotions, and custom messages on any screen. It emphasizes GDPR compliance, free tier access, and integrates with large language models like ChatGPT and Claude. The service includes live preview, logging, and rollback features, targeting sectors such as gastronomy, retail, and enterprises.
 
-**Areas:** Company · AI · Digital Signage · GDPR · Cloud
+**Areas:** Company · Artificial Intelligence · Digital Signage · GDPR · Cloud
 
 ## agentView on APIs.io
 
@@ -76,11 +76,17 @@ Everything profiled for agentView is published on APIs.io rather than in this re
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentview-de-mcp.yml](https://apis.io/servers/agentview-de/agentview-de-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentview De Domain Security](https://apis.io/security/agentview-de/agentview-de-domain-security/)
+- [agentView Domain Security](https://apis.io/security/agentview-de/agentview-de-domain-security/)
 
 ## Where to find this API
 
@@ -90,18 +96,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 4.2** — minimal · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 4.1** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.3 |
+| Discoverability | 55.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 24.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -116,7 +122,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -126,8 +132,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 10.9** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentview-de/](https://apis.io/providers/agentview-de/).
 
